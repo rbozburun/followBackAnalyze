@@ -119,6 +119,8 @@ class Main():
                 time.sleep(1)
 
             followers = int(followers)
+            if followers == 0:
+                followers = 0.1
             followings = int(followings)
             ratio = followings / followers
 
