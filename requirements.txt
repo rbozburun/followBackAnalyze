@@ -1,0 +1,4 @@
+selenium == 3.141.0
+termcolor == 1.1.0
+cprint == 1.1
+urlllib3 == 1.25.10
