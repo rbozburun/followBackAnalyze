@@ -5,7 +5,7 @@ Selenium frameworkü kullanılarak geliştirilmiş bir **Python** scripti. Belir
 `python -m pip install -r .\requirements.txt`
 
 ## Kullanım:
-python followBack_Analyzer.py
+`python followBack_Analyzer.py`
 
 ## Notlar:
 - Sadece Windows 10 işletim sisteminde **Pycharm** ile kullanılmıştır.
